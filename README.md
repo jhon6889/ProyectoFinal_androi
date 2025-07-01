@@ -3,7 +3,7 @@
 
 ```bash
 🔹 Clone the repository
-🔹 insert the project in androi our visual studio
+🔹 insert the project in androi 
 🔹 Run MainActivity
 ```
 ## Project Api
