@@ -2,14 +2,18 @@
 ## Project Aplication Androi
 
 ```bash
-Run MainActivity
+🔹 Clone the repository
+🔹 insert the project in androi our visual studio
+🔹 Run MainActivity
 ```
 ## Project Api
 
 ```bash
+🔹 Clone the repository
+🔹 insert the project in androi our visual studio
+🔹 Run MainActivity
 $ npm install @nestjs/typeorm typeorm sqlite3
 ```
-
 
 
 ## Compile and run the project
